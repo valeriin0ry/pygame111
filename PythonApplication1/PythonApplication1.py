@@ -31,9 +31,9 @@ pygame.quit()
 
 
 
-#joon (line): pygame.draw.line(aken, v‰rv, algus_pos, lıpp_pos, paksus)
-#ristk¸lik (rect): pygame.draw.rect(screen, v‰rv, [x, y, w, h], joone_paksus)
-#ring (circle): pygame.draw.circle(screen, v‰rv, tsentri_pos, raadius, joone_paksus)
-#hulknurk (polygon): pygame.draw.polygon(screen, v‰rv, koordinaatide_loend, joone_paksus)
-#ovaal (ellipse): pygame.draw.ellipse(screen, v‰rv, [x, y, r1, r2], joone_paksus)
-#kaar (arc): pygame.draw.arc(screen, v‰rv, ristk¸liku_koordinaadid, start_nurk, lıpp_nurk, joone_paksus)
+#joon (line): pygame.draw.line(aken, v√§rv, algus_pos, l√µpp_pos, paksus)
+#ristk√ºlik (rect): pygame.draw.rect(screen, v√§rv, [x, y, w, h], joone_paksus)
+#ring (circle): pygame.draw.circle(screen, v√§rv, tsentri_pos, raadius, joone_paksus)
+#hulknurk (polygon): pygame.draw.polygon(screen, v√§rv, koordinaatide_loend, joone_paksus)
+#ovaal (ellipse): pygame.draw.ellipse(screen, v√§rv, [x, y, r1, r2], joone_paksus)
+#kaar (arc): pygame.draw.arc(screen, v√§rv, ristk√ºliku_koordinaadid, start_nurk, l√µpp_nurk, joone_paksus)
